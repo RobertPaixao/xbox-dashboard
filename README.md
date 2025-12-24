@@ -1,6 +1,6 @@
 #  Xbox Game Pass Subscriptions Sales Dashboard
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 Este projeto foi desenvolvido com o objetivo de criar um **dashboard de vendas no Excel** para análise das assinaturas do **Xbox Game Pass**.  
 A proposta foi transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e apoiando a tomada de decisões baseadas em dados.
 
