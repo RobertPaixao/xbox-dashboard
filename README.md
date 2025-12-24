@@ -1,4 +1,4 @@
-# 🎮 Xbox Game Pass Subscriptions Sales Dashboard
+#  Xbox Game Pass Subscriptions Sales Dashboard
 
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido com o objetivo de criar um **dashboard de vendas no Excel** para análise das assinaturas do **Xbox Game Pass**.  
@@ -6,7 +6,7 @@ A proposta foi transformar dados brutos em informações visuais claras e úteis
 
 ---
 
-## 📊 Dados Utilizados
+##  Dados Utilizados
 Os dados foram extraídos de planilhas fornecidas e incluem:
 
 - **Subscriber ID** (identificação do assinante)  
@@ -23,7 +23,7 @@ Os dados foram extraídos de planilhas fornecidas e incluem:
 
 ---
 
-## 📈 Perguntas de Negócio Respondidas
+##  Perguntas de Negócio Respondidas
 O dashboard foi construído para responder às seguintes questões:
 
 1. **Qual o faturamento total de vendas de planos anuais (todas as assinaturas agregadas)?**  
@@ -33,7 +33,7 @@ O dashboard foi construído para responder às seguintes questões:
 
 ---
 
-## 📊 Estrutura do Dashboard
+##  Estrutura do Dashboard
 O dashboard no Excel contém:
 
 - **Resumo Geral**: indicadores principais (receita total, número de assinaturas, ticket médio).  
@@ -42,15 +42,10 @@ O dashboard no Excel contém:
 - **Season Passes**: gráficos comparativos das vendas de EA Play e Minecraft.  
 - **Filtros Interativos**: por período, tipo de plano e auto-renovação.  
 
-### 🎨 Paleta de Cores Utilizada
+###  Paleta de Cores Utilizada
 - Verde Xbox: `#9BC848`  
 - Verde destaque: `#22C55E`  
 - Verde menus: `#2AE6B1` e `#5BF6A8`  
 - Cinza neutro: `#E8E6E9`  
 
 ---
-
-## 🚀 Como Reproduzir
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seuusuario/xbox-dashboard.git
